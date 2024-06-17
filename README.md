@@ -88,7 +88,7 @@ Success criterion:
 
 ### Report Snapshot- Comparative Insights (Power BI DESKTOP)
 
-![page 2 (EA)](https://github.com/harshitsah123/election_analysis/assets/76686265/c9189e56-ad24-4a06-8b2d-9ff3fc35c358)
+![page 2 (EA)](https://github.com/harshitsah123/election_analysis/assets/76686265/61a8e605-a880-4640-8994-4b42d295efac)
 
 ### Report Snapshot- Secondary Insights (Power BI DESKTOP)
 
